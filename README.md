@@ -68,10 +68,6 @@ Create the target project's local environment file using the variable names from
 │   ├── vanilla-js.md
 │   ├── node-express.md
 │   ├── flask.md
-│   ─ react-vite.md
-│   ├── vanilla-js.md
-│   ├── node-express.md
-│   ├── flask.md
 │   ├── django.md
 │   └── wordpress.md
 ├── prompts/
@@ -91,6 +87,6 @@ The repository contains documentation and minimal snippets only. It intentionall
 - [Quickstarts](https://clerk.com/docs/getting-started/quickstart/overview)
 - [Next.js App Router](https://clerk.com/docs/nextjs/getting-started/quickstart)
 - [React + Vite](https://clerk.com/docs/react/getting-started/quickstart)
-- [JavaScript](https://clerk.com/docs/js-frontend/getting-startup-quickstart)
+- [JavaScript](https://clerk.com/docs/js-frontend/getting-started/quickstart)
 - [Express](https://clerk.com/docs/expressjs/getting-started/quickstart)
 - [Clerk CLI](https://clerk.com/docs/cli)
